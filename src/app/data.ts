@@ -3,8 +3,8 @@
 // --- DATA UNDANGAN UTAMA ---
 export const groomName = "Irfan";
 export const brideName = "Afra";
-export const weddingDate = "Sabtu, 14 Februari 2026";
-export const targetDate = "2026-02-14T09:00:00+07:00"; // Untuk hitung mundur
+export const weddingDate = "Sabtu, 01 April 2030";
+export const targetDate = "2030-04-01T09:00:00+07:00"; // Untuk hitung mundur
 export const akadTime = "09:00 - 10:00 WIB";
 export const resepsiTime = "11:00 - 14:00 WIB";
 export const locationName = "Kediaman Mempelai Wanita";
@@ -24,21 +24,21 @@ export const ourStory = [
   {
     date: "Awal 2023",
     title: "Pertemuan Pertama",
-    description: "Kami pertama kali bertemu di SD yg sama namun kami belum kenal satu sama lain, setelah kuliah kami mulai dekat dan mulai ada rasa satu sama lain, di semester 4 nya disitulah awal mulanya pertemuan pertama kami.",
+    description: "Kami pertama kali bertemu di SD yg sama namun kami belum kenal satu sama lain, dan plot twistnya ternyata kami juga di 1 sma yang sama. setelah kuliah kami mulai dekat dan mulai ada rasa satu sama lain, di semester 4 nya disitulah awal mulanya pertemuan pertama kami.",
   },
   {
     date: "Pertengahan 2025",
     title: "Awal Kedekatan",
-    description: "Setelah pertemuan itu, kami mulai sering berkomunikasi dan menyadari ada banyak kecocokan. Momen-momen sederhana menjadi sangat berarti.",
+    description: "Setelah pertemuan itu, kami mulai berkomunikasi dan menyadari ada banyak kecocokan. Momen-momen sederhana menjadi sangat berarti.",
   },
   {
     date: "Ongoing",
     title: "Lamaran",
-    description: "Dengan restu kedua keluarga, kami mengambil langkah serius. Irfan melamar Afra dalam suasana yang hangat dan penuh kebahagiaan.",
+    description: "Dengan restu kedua keluarga, kami mengambil langkah serius. Irfan melamar Afra dalam suasana yang hangat dan penuh kebahagiaan dengan disaksikannya oleh kedua pihak keluarga.",
   },
   {
     date: "Menuju Hari Bahagia",
-    title: "Februari 2026",
+    title: "Februari 2030",
     description: "Kini, kami bersiap untuk menyambut hari di mana kami akan mengikat janji suci. Kami tidak sabar untuk memulai babak baru kehidupan bersama.",
   },
 ];
